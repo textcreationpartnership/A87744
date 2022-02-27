@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse of a true English-man, free from selfe-interest, concerning the interest England hath in the Siege of Graveling.</title>
+            <author>Kilvert, Richard, d. 1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87744</idno>
+            <idno type="STC">Wing K477</idno>
+            <idno type="STC">Thomason E52_21</idno>
+            <idno type="STC">ESTC R20591</idno>
+            <idno type="EEBO-CITATION">99865139</idno>
+            <idno type="PROQUEST">99865139</idno>
+            <idno type="VID">155208</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87744)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155208)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 9:E52[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse of a true English-man, free from selfe-interest, concerning the interest England hath in the Siege of Graveling.</title>
+                  <author>Kilvert, Richard, d. 1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Thomas Walkley,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Richard Kilvert.</note>
+                  <note>Annotation on Thomason copy: following the words 'a true English-man': "Called Mr. Richard Kilvert"; "June 28th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gravelines (France) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155208:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 40 -->
+            <p>A DISCOURSE OF A true English-man, Free from Selfe-intereſt, concer<g ref="char:EOLhyphen"/>ning the intereſt ENGLAND hath in the Siege OF Graveling.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Printed at <hi>London</hi> for <hi>Thomas Walkley.</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155208:2"/>
+            <!-- PDF PAGE 41 -->
+            <pb n="1" facs="tcp:155208:2"/>
+            <!-- PDF PAGE 41 -->
+            <head>A Diſcourſe of a true Engliſh-man, free from Selfe-interest, concerning the interest <hi>ENGLAND</hi> hath in the ſiege of <hi>Graveling.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg>Ur domeſtick affaires employing the beſt ſee<g ref="char:EOLhyphen"/>ing men of the Realme, I having no ſhare in ſo great actions, conceive it my part to repreſent unto them, and the reſt of my deare Countrey men, what evils are inva<g ref="char:EOLhyphen"/>ding us from abroad. I feare that whileſt England laboureth in her beſt ſubjects for the reſtitution of our peace at home, dan<g ref="char:EOLhyphen"/>gers of no ſmall conſequence, ariſing from forraine practices, may grow paſt remedy.</p>
+            <p>Nature which hath ſeparated England from the reſt of the world by a broad and deep ſea, ſerving in ſtead of ditch and wall, ſeemes to tell this Iland, that her true intereſt is to keep herſelfe Miſtreſſe of this Sea, and by all poſſible meanes to hinder her neighbours from over-much power in this her ditch and wall; the power at ſea of each particular of them muſt be leſſe than hers, if ſhe will be ſafe, and in as much as ſhe can procure, the power at ſea of each particular neighbour muſt be equally ballanced with that of the other, one muſt not over-top the other, they muſt joyne together. This for many yeares ſhe hath exactly obſerved, aiding
+<pb n="2" facs="tcp:155208:3"/>
+               <!-- PDF PAGE 42 -->ſometime this, ſometime that, never permitting any to command her ſeas, ſtill keeping her neighbours divided and oppoſite among themſelves, who had they joyned, might have given her juſt cauſe of feare. Queene <hi>Elizabeth</hi> alwayes held this courſe, judging the greatneſſe and ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fetie of this Kingdome to depend thereon, to this ſhe was induced by theſe, or the like reaſons.</p>
+            <p n="1">1 Englands chiefe prerogative and g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orie is to command her ſeas, this prerogative and glorie will be eaſily loſt, if all neigh<g ref="char:EOLhyphen"/>bouring ports and coaſts come into the rule of one Prince or State.</p>
+            <p n="2">2 Whiles theſe havens and coaſts remaine divided among the Spanyard, Hollander, and French, which nations are at enmitie among themſelves, England is free from feare, no one of them be<g ref="char:EOLhyphen"/>ing powerfull enough to invade her; and if any one ſhould at<g ref="char:EOLhyphen"/>tempt the invaſion, ſelfe-intereſt would enforce the other to aſſiſt her. But if all come into the hands of one Maſter, his power will be dreadfull to England, if he invade, who ſhall aſſiſt this Iſland?</p>
+            <p n="3">3 Neighbouring Countries remaining as they are, at conten<g ref="char:EOLhyphen"/>tion among themſelves, and almoſt in perpetuall wars, England groweth rich, having free traffick with them all; but if the French poſſeſſe the coaſt of Dunkirk, the freedome of Englands trade muſt depend on them, they may hold this Iſland to unequal terms, becauſe in ariſing ſtrifes there will be none to take Englands part.</p>
+            <p n="4">4 The Spanyards being Maſters of Dunkirk, Oſtend, and Graveling, it hath alwayes been in this Iſlands power to live at peace with them, and good cauſe why, the true intereſt of the Spanyard is to be at peace with us. Experience of many yeares yeelds good proofes, no act of hoſtilitie, no ſuſpition of wrong hath come from thence; ſo that England by long triall being aſſu<g ref="char:EOLhyphen"/>red on that ſide, it behoves her to apprehend the danger of new neighbours in thoſe townes: the certaintie of good neighbour<g ref="char:EOLhyphen"/>hood ought by her to be preferred unto the uncertaintie of others, as yet not by her experienced.</p>
+            <p n="5">
+               <pb n="3" facs="tcp:155208:3"/>
+               <!-- PDF PAGE 42 -->
+5 The French have alwayes been held in jealouſie by the En<g ref="char:EOLhyphen"/>gliſh paſted wars, actuall pretences of the one againſt the other; the memorie which the French retaine of ſuccour ſent from hence to Rochell, that opinion the Engliſh cannot chuſe but have, that the French will powerfully maintaine our Queenes intereſts, when they have ended with Spaine, doing in the meane while what poſſibly they can to aſſiſt her, muſt needs perſwade the Parlament, that Graveling once had by the French, this Kingdome muſt ex<g ref="char:EOLhyphen"/>pect them, ſpecially if to the former motive wee adjoyue com<g ref="char:EOLhyphen"/>mon experience, that the French love to be alwayes in war, if not abroad, rather than faile at home.</p>
+            <p n="6">6 The plot of the ſiege of Graveling was laid by treatie and agreement between the Hollanders and the French; in this agree<g ref="char:EOLhyphen"/>ment the French permit unto the Hollanders the conqueſt of the towne and haven of Dunkirk, which they preſume will preſently follow the taking of Graveling. Now I leave unto any wiſe mens judgement, what intereſt England, eſpecially the Parlament, may have in hindring the Hollanders from the poſſeſſion of this haven, conſidering that by this meanes it fals into the hands of the Prince of Orange, who is Admirall of Holland, and Maſter of all their Sea-forces, beſides his power by land, who ſees not the faire pre<g ref="char:EOLhyphen"/>tences he may have to intermeddle in the civill wars of England, and the titles he may bring forth for more than this?</p>
+            <p n="7">7. The Parliament having the adminiſtration of this Realme, and poſſeſſing the Navie thereof, its honour and intereſt exacteth ſuch a government, as may hinder while it laſteth, all detriment, from within and from abroad, which it ſhall do moſt ſecurely by collecting ſuch experienced maximes, by which this Kingdome hath ſubſiſted hitherto, and by which it hath maintained unto it ſelfe ſtrength, wealth and ſplendor. In ſo doing it will more freely poſſeſſe the Subjects love, who by this muſt ſee they ſeek the true intereſt of the Crown.</p>
+            <p>Againſt theſe reaſons two Objections may be oppoſed. 1. That
+<pb n="4" facs="tcp:155208:4"/>
+               <!-- PDF PAGE 43 -->England is too much imployed in her own affaires, hindering her from attending to forraigne buſineſſe. 2. That the Parliament cannot ſuccour Graveling, without danger of provoking France, and drawing the French Force upon England.</p>
+            <p>To the firſt of theſe Objections I eaſily anſwere; Firſt, that Englands Civill Wars ſhould rather incite than hinder the Par<g ref="char:EOLhyphen"/>liament from ſuccouring Graveling: This Kingdomes diviſions cauſing it's weakneſs, ſhould alſo cauſe an apprehenſion of France her growing Great and ſtrong, by adjoynig Graveling to her do<g ref="char:EOLhyphen"/>minions. This apprehenſion ſhould produce an effectuall de<g ref="char:EOLhyphen"/>ſire to hinder this growth and ſtrength as I have already made ma<g ref="char:EOLhyphen"/>nifeſt.</p>
+            <p>Secondly, to ſuccor Graveling no forces of ours are needfull to the Spaniard but thoſe of Sea, ſuch of theſe as are in the Parlia, poſſeſſion, are not ſo much imploied for the preſent, as a ſuffici<g ref="char:EOLhyphen"/>ent part of them may not for ſome few dayes, be aſſigned for this expedition. It ſeems a thing moſt certaine to me, that this town being of ſo great conſequence to the Spaniard, he will moſt readily free us from all charges in this action, and not onely this, but alſo afford us no ſmall preſent gaine in caſe we give him this aſſiſtance.</p>
+            <p>To the other Objection of provoking France, and drawing her Forces upon England, for my part I ſee no pretext France can take againſt the Parliament, in regard of this helpe, ſeeing that it will be afforded by the Parliament for the indempnity, and ſecu<g ref="char:EOLhyphen"/>rity of this Kingdome, and according to thoſe maximes <hi>England</hi> hath alwaies uſed without violation of her amity with France. Secondly, England wrongeth none in uſing her right. Now this Kingdom poſſeſſing the Dominion of her ſeas, may with juſt cauſe hinder the invaſions and uſurpations of thoſe, who with her preju<g ref="char:EOLhyphen"/>dice ſeek to ſpoil her neighbour. 3. According to the ordina<g ref="char:EOLhyphen"/>ry uſe and courſe of W<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, ſuch ſuccours as theſe induce no breach of peace. The Hollanders who have neutrality with the Empire,
+<pb n="5" facs="tcp:155208:4"/>
+               <!-- PDF PAGE 43 -->ſent notwithſtanding ayde to the Caſtle of Hermetſteyn, and the towne of Dorſten, beſieged by the Imperialliſts, and contributed the value of great ſums to the Sweden, and to the Widow of the H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſian, without giving cauſe of War againſt them, unto the Em<g ref="char:EOLhyphen"/>perour: At this preſent they ſupply the Sweden with Ships and men againſt the Dane, continuing amity notwithſtanding with this King. The French themſelves have done the like, for the Hollan<g ref="char:EOLhyphen"/>ders againſt the Spaniard, even at that time they were in peace with Spaine, they gave aid of men an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> money to the King of Sweden, againſt the Empire, not having any open War with the Empe<g ref="char:EOLhyphen"/>rour, whence it plain enſues, that ſuch ſuccours cannot be eſteem<g ref="char:EOLhyphen"/>ed acts of Hoſtility according to the examples and maximes of the French and Hollanders themſelves.</p>
+            <p n="4">4. In caſe ſuch aides would provoke the French, it is certain that after the raiſing of this ſiege, the Spaniards and the Empire will give them worke enough, ſo to hinder them from any enter<g ref="char:EOLhyphen"/>prize againſt England. Farther, if the French ſhall actually enter into War againſt this Realme, in regard of the fruſtrating their hopes of Graveling, Spaine no doubt will oblige her ſelfe to de<g ref="char:EOLhyphen"/>fend it, and keep it free from harme, enſuing from the ſaid In<g ref="char:EOLhyphen"/>ſtruction.</p>
+            <p n="5">5. The ſuffering France to get means to do hurt unto England is much more to be feard, than the giving to the French a pretence for doing her harme, France cannot hurt unleſſe ſhee hath power and meanes, but if the French get power, and meanes to hurt, this will bee executed by them here, although pretences fail, as they have done, not onely once elſewhere, and not onely in one place, where they have broken ſolemne Treaties without any cauſe, yea, without colour of Iuſtice.</p>
+            <p n="6">6 When France ſhall be in caſe to invade England, pretences will never want, old quarrels, aid given to Rochell, the intereſt of the Queene of England, and other like will ſuffice. So that Eng<g ref="char:EOLhyphen"/>land's
+<pb n="6" facs="tcp:155208:5"/>
+               <!-- PDF PAGE 44 -->ſecuritie conſiſteth not in avoyding to provoke France, which is ſufficiently ſtirred up by her owne ambition, and her de<g ref="char:EOLhyphen"/>ſire to devoure this Kingdome, but England muſt procure ſecuri<g ref="char:EOLhyphen"/>tie to her ſelfe, by taking away from France meanes and power to hurt her. The will to hurt England can never faile in the French.</p>
+            <p>Laſtly, if a more particular treatie with the Spanyard about this buſineſſe pleaſe the Parlament, other meanes and wayes que<g ref="char:EOLhyphen"/>ſtionleſſe will be found out, by which a ſatisfying ſecuritie for England againſt France will appeare. So that the aid which England ſhall give to Spaine in this preſent occaſion, ſhall appeare no way prejudiciall to this Kingdome.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
